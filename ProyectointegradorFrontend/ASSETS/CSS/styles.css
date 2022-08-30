@@ -1,0 +1,9 @@
+.navbar.navbar-expand-lg.bg-secondary{
+    background-color: rgba(78, 238, 161, 0.854) !important;
+}
+i.fa-brands.fa-github.fa-2xl:hover{
+    color: rgb(139, 39, 233);
+}
+.list-group{
+    --bs-list-group-bg: transparent;
+}
